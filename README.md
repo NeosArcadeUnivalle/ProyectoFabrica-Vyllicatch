@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +65,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# ProyectoFabrica-Vyllicatch
+Vyllicatch es una página web desarrollada con Laravel como framework backend y React para el diseño frontend. Este proyecto está diseñado para la fabricadora de ladrillos Vyllicatch, ofreciendo una interfaz intuitiva y atractiva que resalta sus productos y servicios.
+>>>>>>> 645ed562734bae5e8205b18a5390a812ecb70f91
